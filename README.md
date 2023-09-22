@@ -1,5 +1,5 @@
-# projeto desenvolvido durante a 3ª jornadano GE
+# Projeto desenvolvido durante a 3ª jornadano GE
 
-##pensamento computacional no ensino médio
+## Pensamento computacional no Ensino Médio
 
-turma Q - sextas (14h)
+Turma Q - sextas (14h)
