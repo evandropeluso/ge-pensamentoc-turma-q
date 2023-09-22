@@ -1,0 +1,1 @@
+# ge-pensamentoc-turma-q
