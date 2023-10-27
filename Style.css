@@ -5,3 +5,10 @@ p {
 body{
     text-align: center;
 }
+
+
+#titulo{
+    fonte-size:32px;
+    text-align: center;
+    text-transform: :uppercase;
+}
