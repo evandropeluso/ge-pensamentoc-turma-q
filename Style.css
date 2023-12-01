@@ -8,6 +8,25 @@ body {
 }
 
 
+.cabecalho{
+    padding: 20px;
+    background-color: #386641;
+    border-bottom: #3866414px
+    solid #6a994e;
+font-size: 20px
+color-white
+
+.cabecalho-imagem{
+    width: 20%;
+    height:20%;
+
+    .cabecalho-título{
+        pedding-left: 16px
+        
+    }
+}
+}
+
 #titulo {
     font-size: 32px;
     text-align: center;
